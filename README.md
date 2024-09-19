@@ -43,6 +43,6 @@
 </ul>
 
 <h2>Results</h2>
-<p>After 100 epochs of training, the model achieves an accuracy of approximately <strong>91%</strong> on the test data, mking it a reliable tool for predicting and detecting diabetes.
+<p>After 100 epochs of training, the model achieves an accuracy of approximately <strong>91%</strong> on the test data, making it a reliable tool for predicting and detecting diabetes.
 </ul>
 
